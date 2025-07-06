@@ -1,7 +1,0 @@
-pandas
-sqlalchemy
-pyarrow
-fastavro
-azure-storage-blob
-python-dotenv
-apache-airflow
