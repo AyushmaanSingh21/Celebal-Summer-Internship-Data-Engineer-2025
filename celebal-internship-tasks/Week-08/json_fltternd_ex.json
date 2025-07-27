@@ -1,0 +1,12 @@
+{
+    "trip_id": 101,
+    "driver": {
+      "name": "Ayushmaan Singh",
+      "license": "XYZ1234"
+    },
+    "fare": {
+      "amount": 25.0,
+      "tip": 3.0
+    }
+  }
+  
